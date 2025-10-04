@@ -369,7 +369,7 @@ export function Terminal({ theme, onThemeChange, themePresets }: Props) {
           "🌐 Links",
           "  ▸ GitHub     : https://github.com/tanish-24-git",
           "  ▸ LinkedIn   : https://www.linkedin.com/in/tanish-jagtap-b363ab2ba",
-          "  ▸ LeetCode   : https://leetcode.com/problems/letter-tile-possibilities/description",
+          "  ▸ LeetCode   : https://leetcode.com/u/Tanish_Jagtap",
           "------------------------------------------",
           "💡 Tip: Type 'sudo hire_tanish' to instantly add me to your team 😉",
         ])
