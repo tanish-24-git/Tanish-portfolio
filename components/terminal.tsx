@@ -149,8 +149,8 @@ export function Terminal({ theme, onThemeChange, themePresets }: Props) {
           "==========================================",
           "Hi! I’m Tanish Jagtap, a B.Tech AI & DS student passionate about AI, ML, and full-stack development.",
           "💻 Explore my projects, experience, resume, and more using terminal commands.",
-          "🔗 GitHub Repository:",
-          "https://github.com/tanish-24-git",
+          "🔗 GitHub Repository for this portfolio:",
+          "https://github.com/tanish-24-git/Tanish-portfolio.git",
           "clear                    → Clear the terminal screen",
           "exit                     → Exit the portfolio",
         ])
